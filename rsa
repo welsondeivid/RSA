@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-int mdc (int F, int e) // coloquei aqui, mas nao sei pra que vou usar
+int mdc (int F, int e) // coloquei aqui, vou usar sim
 {
     int r;
     r = F % e;
